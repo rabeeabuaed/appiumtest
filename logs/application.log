@@ -1,0 +1,18 @@
+[logs INFO ] 2023-11-13 11:22:32.308 BaseTest:168 - This is info message
+[logs ERROR] 2023-11-13 11:22:32.327 BaseTest:169 - This is error message
+[logs DEBUG] 2023-11-13 11:22:32.327 BaseTest:170 - This is debug message
+[logs WARN ] 2023-11-13 11:22:32.327 BaseTest:171 - This is warn message
+[logs INFO ] 2023-11-13 11:29:34.505 BaseTest:168 - This is info message
+[logs ERROR] 2023-11-13 11:29:34.523 BaseTest:169 - This is error message
+[logs DEBUG] 2023-11-13 11:29:34.524 BaseTest:170 - This is debug message
+[logs WARN ] 2023-11-13 11:29:34.524 BaseTest:171 - This is warn message
+[logs INFO ] 2023-11-13 11:31:31.522 BaseTest:168 - This is info message
+[logs ERROR] 2023-11-13 11:31:31.572 BaseTest:169 - This is error message
+[logs DEBUG] 2023-11-13 11:31:31.573 BaseTest:170 - This is debug message
+[logs WARN ] 2023-11-13 11:31:31.573 BaseTest:171 - This is warn message
+[logs INFO ] 2023-11-13 11:35:24.599 BaseTest:168 - This is info message
+[logs ERROR] 2023-11-13 11:35:24.616 BaseTest:169 - This is error message
+[logs DEBUG] 2023-11-13 11:35:24.616 BaseTest:170 - This is debug message
+[logs WARN ] 2023-11-13 11:35:24.616 BaseTest:171 - This is warn message
+[logs INFO ] 2023-11-13 11:37:41.588 BaseTest:168 - This is beforeTest
+[logs INFO ] 2023-11-13 16:49:58.001 BaseTest:168 - This is beforeTest
